@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Curso>
+    <Modulo>
+        <Nombre>Módulo 1</Nombre>
+        <Horas>10</Horas>
+        <Calificacion>Aprobado</Calificacion>
+    </Modulo>
+    <Modulo>
+        <Nombre>Módulo 2</Nombre>
+        <Horas>20</Horas>
+        <Calificacion>Aprobado</Calificacion>
+    </Modulo>
+    <Modulo>
+        <Nombre>Módulo 3</Nombre>
+        <Horas>30</Horas>
+        <Calificacion>Aprobado</Calificacion>
+    </Modulo>
+</Curso>
