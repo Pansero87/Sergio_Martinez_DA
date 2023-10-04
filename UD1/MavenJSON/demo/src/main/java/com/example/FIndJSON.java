@@ -37,7 +37,9 @@ public class FIndJSON {
 			System.out.println("Wich parameter: name, birthname, birthdate, birthplace");
 			String parameter = read.nextLine();
 			for (JSONObject json : jsonList) {
-				System.out.println(json.get(parameter));
+				System.out.print(json.opt(parameter) + "\t");
+				// System.out.print(json.opt("birthdate") + "\n");
+				System.out.println();
 
 			}
 

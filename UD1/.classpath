@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Files/src"/>
+	<classpathentry kind="src" path="MavenJSON/demo/src/main/java"/>
+	<classpathentry kind="lib" path="MavenJSON/demo/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Files/bin"/>
+</classpath>
