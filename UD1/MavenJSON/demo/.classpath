@@ -36,5 +36,15 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/ExamenAD"/>
+	<classpathentry kind="lib" path="/home/sergio/.m2/repository/com/oracle/substratevm/svm/19.2.1/svm-19.2.1.jar" sourcepath="/home/sergio/.m2/repository/com/oracle/substratevm/svm/19.2.1/svm-19.2.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.oracle.substratevm"/>
+			<attribute name="maven.artifactId" value="svm"/>
+			<attribute name="maven.version" value="19.2.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

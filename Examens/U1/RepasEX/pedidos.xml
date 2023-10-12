@@ -1,0 +1,47 @@
+<PEDIDOS>
+	<Pedido>
+		<codigo>AB235695-1</codigo>
+		<descrip>MONITOR SAMDUNG DE 32 PULGADAS</descrip>
+		<precio>526559</precio>
+		<cantidad>4</cantidad>
+		<ubica>A:002 S:005 F:001</ubica>
+	</Pedido>
+	<Pedido>
+		<codigo>B005695-5</codigo>
+		<descrip>CPU INTEL PRUEBA DE ESPACIO</descrip>
+		<precio>526559</precio>
+		<cantidad>2</cantidad>
+		<ubica>A:002 S:005 F:001</ubica>
+		<PROMOS>
+		<promocion>50 off</promocion>
+		<prueba>datos mas por prueva</prueba>
+		<prueba2>otro mas </prueba2>
+		</PROMOS>
+	</Pedido>
+	<Pedido>
+		<codigo>AB235-6</codigo>
+		<descrip>MONITOR SAMDUNG DE 32 PULGADAS</descrip>
+		<precio>526559</precio>
+		<cantidad>2</cantidad>
+		<ubica>A:002 S:005 F:001</ubica>
+	</Pedido>
+	<Pedido>
+		<codigo>A56895-11</codigo>
+		<descrip>MONITOR SAMDUNG DE 32 PULGADAS</descrip>
+		<precio>526559</precio>
+		<cantidad>14</cantidad>
+		<ubica>A:002 S:005 F:001</ubica>
+	</Pedido>
+	<Pedido>
+		<codigo>B04565-50</codigo>
+		<descrip>CPU INTEL PRUEBA DE ESPACIO</descrip>
+		<precio>526559</precio>
+		<cantidad>20</cantidad>
+		<ubica>A:002 S:005 F:001</ubica>
+		<PROMOS>
+		<promocion>50 off</promocion>
+		<prueba>datos mas por prueva</prueba>
+		<prueba2>otro mas </prueba2>
+		</PROMOS>
+	</Pedido>
+</PEDIDOS>

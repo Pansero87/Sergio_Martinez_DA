@@ -1,0 +1,12 @@
+Game found:
+Name: The 3 Commandments
+ObjectID: 38359
+Minimum Players: 3
+Maximum Players: 7
+
+Game found:
+Name: 10 Days in Africa
+ObjectID: 7865
+Minimum Players: 2
+Maximum Players: 4
+
