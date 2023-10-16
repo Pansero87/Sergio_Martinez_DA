@@ -6,11 +6,16 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="connector/mysql-connector-j-8.1.0.jar">
+	<classpathentry kind="lib" path="/home/sergio/Documentos/AD/Sergio_Martinez_DA/UD2/src/jars/mysql-connector-j-8.1.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="crud/main/src/main/java/com/ieseljust/sergiomb/da"/>
+	<classpathentry kind="lib" path="/home/sergio/Documentos/AD/Sergio_Martinez_DA/UD2/src/jars/jansi-2.4.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
