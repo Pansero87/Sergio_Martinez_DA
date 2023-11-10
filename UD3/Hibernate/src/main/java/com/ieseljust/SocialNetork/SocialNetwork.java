@@ -10,7 +10,7 @@ public class SocialNetwork {
     public static void main(String[] args) {
 
         // Crea una nueva instancia de Users con los datos de la inserción
-        Users user = new Users(1, "Antonio", "2222");
+        Users user = new Users(1, "Sergio", "2222");
 
         // Obtiene una sesión de Hibernate
         Session session = HibernateUtil.getSessionFactory().openSession();
