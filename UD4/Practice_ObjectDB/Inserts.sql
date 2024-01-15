@@ -1,0 +1,73 @@
+-- Insert data into table Users
+
+INSERT INTO Users (Name, Email) VALUES ('Juan Pérez', 'juan.perez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('María López', 'maria.lopez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Carlos Ruiz', 'carlos.ruiz@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Ana García', 'ana.garcia@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Pedro Fernández', 'pedro.fernandez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Laura Sánchez', 'laura.sanchez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Diego Torres', 'diego.torres@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Sofía Martínez', 'sofia.martinez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Javier Pérez', 'javier.perez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Mónica Ramírez', 'monica.ramirez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Roberto Gómez', 'roberto.gomez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Isabel Herrera', 'isabel.herrera@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Luisa Castro', 'luisa.castro@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Fernando Díaz', 'fernando.diaz@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Rosa Vargas', 'rosa.vargas@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Alberto Navarro', 'alberto.navarro@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Clara Soto', 'clara.soto@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Gustavo Jiménez', 'gustavo.jimenez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Patricia Ortega', 'patricia.ortega@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Miguel Romero', 'miguel.romero@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Verónica Paredes', 'veronica.paredes@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Raúl Suárez', 'raul.suarez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Natalia Mendoza', 'natalia.mendoza@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Oscar Medina', 'oscar.medina@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Daniela Guerrero', 'daniela.guerrero@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Eduardo Silva', 'eduardo.silva@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Angela Torres', 'angela.torres@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Arturo Valencia', 'arturo.valencia@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Camila Cárdenas', 'camila.cardenas@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Jorge Hernández', 'jorge.hernandez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Lucía Gutiérrez', 'lucia.gutierrez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Esteban Rodríguez', 'esteban.rodriguez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Carmen Delgado', 'carmen.delgado@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Gonzalo Torres', 'gonzalo.torres@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Silvia Ramírez', 'silvia.ramirez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Héctor Mora', 'hector.mora@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Lorena Fuentes', 'lorena.fuentes@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Felipe Castro', 'felipe.castro@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Victoria Navarro', 'victoria.navarro@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Ramiro Sánchez', 'ramiro.sanchez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Nadia Pineda', 'nadia.pineda@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Leonardo Ortega', 'leonardo.ortega@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Adriana Vargas', 'adriana.vargas@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Mario González', 'mario.gonzalez@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Paulina Salazar', 'paulina.salazar@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Rodrigo Cordero', 'rodrigo.cordero@email.com');
+INSERT INTO Users (Name, Email) VALUES ('Valeria Maldonado', 'valeria.maldonado@email.com');
+
+
+
+-- Insert data into table Books
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El último sueño', 'Juan Pérez', 2001);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La sombra del viento', 'Ana García', 2002);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El jardín secreto', 'Carlos Rodríguez', 2003);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El eco de las montañas', 'María Martínez', 2004);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La luz de la luna', 'Pedro Sánchez', 2005);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El camino perdido', 'Laura López', 2006);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La canción del mar', 'Javier Fernández', 2007);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El susurro del viento', 'Carmen Torres', 2008);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El secreto del bosque', 'Francisco Gómez', 2009);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La danza de las olas', 'Isabel Ruiz', 2010);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El canto del cuervo', 'Luis Morales', 2011);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La risa del sol', 'Patricia González', 2012);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El vuelo del águila', 'Rafael Guzmán', 2013);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La voz del río', 'Sara Ramírez', 2014);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El misterio de la noche', 'Ernesto Peña', 2015);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La promesa del alba', 'Teresa Castro', 2016);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El reflejo del lago', 'Roberto Silva', 2017);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La melodía del tiempo', 'Susana Ortega', 2018);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('El espejo del alma', 'Tomás Aguilar', 2019);
+INSERT INTO Books (Title, Author, Publication_Year) VALUES ('La huella de las estrellas', 'Rosa Navarro', 2020);
